@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "description": "Aplicação feita do curso da DIO, onde é feito uma aplicação que mostra algumas informações do seu computador como sistema operacional, memoria Ram que tem, que esta sendo usada e etc.",
     "main": "index.js",
+    "type": "commonjs",
     "scripts": {
         "start": "nodemon index.js"
     },
